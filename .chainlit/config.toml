@@ -2,6 +2,10 @@
 # Whether to enable telemetry (default: true). No personal data is collected.
 enable_telemetry = true
 
+# Name and description of the app
+name = "DocuScan AI Agent"
+title = "DocuScan AI Agent- PDF Analysis Assistant"
+description = "Your intelligent PDF analysis assistant, powered by Yusra Saleem"
 
 # List of environment variables to be provided by each user to use the app.
 user_env = []
@@ -66,7 +70,7 @@ edit_message = true
 
 [UI]
 # Name of the assistant.
-name = "Assistant"
+name = "DocuScan AI Agent"
 
 # default_theme = "dark"
 
